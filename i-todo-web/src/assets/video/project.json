@@ -1,0 +1,22 @@
+{
+	"description" : "Well title says it all",
+	"file" : "DD.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Game" ],
+	"title" : "Stranded deep Ocean",
+	"type" : "video",
+	"visibility" : "public"
+}
